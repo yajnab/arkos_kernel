@@ -13,7 +13,7 @@
 #include "rk3326-linux.dtsi"
 
 / {
-	model = "YMC A10Mini V2";
+	model = "YMC A10Mini V4";
 	compatible = "rockchip,rk3326-a10mini-linux", "rockchip,rk3326";
 	
 	chosen {

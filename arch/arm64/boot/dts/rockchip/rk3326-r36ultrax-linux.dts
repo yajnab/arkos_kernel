@@ -2,7 +2,7 @@
 /*
 * Copyright (c) 2025 kk&lcdyk
 *
-* GameConsole R36UltraX
+* UDT R36UltraX
 *
 */
 
@@ -16,7 +16,7 @@
 #include "rk3326-linux.dtsi"
 
 / {
-	model = "GameConsole R36UltraX";
+	model = "UDT R36UltraX";
 	compatible = "rockchip,rk3326-r36ultrax-linux", "rockchip,rk3326";
 	
 	chosen {
